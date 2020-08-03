@@ -1,0 +1,257 @@
+{
+    "categorias": [
+      {
+        "titulo": "Músicas",
+        "link": "",
+        "cor": "#DC143C",
+        "link_extra": {
+          "text": "Mais ouvidas de julho/2020"  
+        },
+        "videos": [
+          {
+            "titulo": "Olá, sou Mellyssa Stephanny! Bem-vindo(a) à MelFlix :)",
+            "url": "https://www.youtube.com/watch?v=m0mI4bA7wYY"
+          },
+          {
+            "titulo": "Imagine Dragons - Believer",
+            "url": "https://www.youtube.com/watch?v=7wtfhZwyrcc"
+          },
+          {
+            "titulo": "Tiësto & Sevenn - BOOM (Official Video)",
+            "url": "https://www.youtube.com/watch?v=tSJSVmfaMCs"
+          },
+          {
+            "titulo": "Conversations in the Dark (John Legend vs. David Guetta - Official Audio)",
+            "url": "https://www.youtube.com/watch?v=GdNkVrgnIos"
+          },
+          {
+            "titulo": "Make You Mine - PUBLIC",
+            "url": "https://www.youtube.com/watch?v=QQPgk_MkK4k"
+          },
+          {
+            "titulo": "Roxette - Dangerous (Official Video)",
+            "url": "https://www.youtube.com/watch?v=VFNRh26TPmM"
+          },
+          {
+            "titulo": "Nando Reis e Anavitória - N (ao vivo nos ensaios para a turnê)",
+            "url": "https://www.youtube.com/watch?v=_0YGozvUS44"
+          },
+          {
+            "titulo": "Vou Zuar e Menos é Mais - Chato Pacarai/ Recaída / Vai Me Dando Corda / Salseiro ..",
+            "url": "https://www.youtube.com/watch?v=wOe0BI9R35Q"
+          },
+          {
+            "titulo": "MC Zaac, Anitta, Tyga - Desce Pro Play (PA PA PA) (Official Music Video)",
+            "url": "https://www.youtube.com/watch?v=OEtZ4eE3bA0"
+          }        
+        ]
+      },
+      {
+        "titulo": "Receitas",
+        "cor": "#FA8072",
+        "link_extra": {
+          "text": "Gostosas e fáceis de fazer"
+        },
+        "videos": [
+          {
+            "titulo": "EMPADÃO DE FRANGO SUPER CREMOSO E FÁCIL",
+            "url": "https://www.youtube.com/watch?v=F2npcDqkY5g"
+          },
+          {
+            "titulo": "SOBREMESA DE LIMÃO SUPER FÁCIL COM 4 INGREDIENTES",
+            "url": "https://www.youtube.com/watch?v=BW46o9_KQI0"
+          },
+          {
+            "titulo": "RECEITA DE SALPICÃO DE FRANGO PERFEITO E FÁCIL",
+            "url": "https://www.youtube.com/watch?v=lZBgsBreUVc"
+          },
+          {
+            "titulo": "PUDIM DE LEITE CONDENSADO TRADICIONAL",
+            "url": "https://www.youtube.com/watch?v=R9ntufWmX9U"
+          }, 
+          {
+            "titulo": "FRICASSÉ DE FRANGO FÁCIL E RÁPIDO",
+            "url": "https://www.youtube.com/watch?v=EGwKHuRx_9I"
+          },
+          {
+            "titulo": "TORTA TRUFADA DE LIMÃO PROFISSIONAL E SUPER FÁCIL",
+            "url": "https://www.youtube.com/watch?v=fWu3QfioCeM"
+          }, 
+          {
+            "titulo": "TORRESMO CROCANTE DE BARRIGA | Mohamad Hindi ",
+            "url": "https://www.youtube.com/watch?v=_s1E5cBedgs"
+          }, 
+          {
+            "titulo": "SOBREMESA GELADA DE NINHO TRUFADO| FÁCIL E RÁPIDA",
+            "url": "https://www.youtube.com/watch?v=erxHQaU4oBw"
+          }
+        ]
+      },
+      {
+        "titulo": "Séries",
+        "cor": "#DB7093",
+        "link_extra": {
+          "text": "Assistidas recentemente"
+        },
+        "videos": [
+          {
+            "titulo": "Brooklyn Nine-Nine Season 7 Teaser Trailer",
+            "url": "https://www.youtube.com/watch?v=zTL7c50cz2E"
+          },
+          {
+            "titulo": "S.W.A.T Season 1 Official Trailer | FOX8",
+            "url": "https://www.youtube.com/watch?v=LjN0p1xAZJY"
+          },
+          {
+            "titulo": "Manifest | Trailer completo 1ª temporada - Legendado PT-BR",
+            "url": "https://www.youtube.com/watch?v=uXarGkV96fw"
+          },
+          {
+            "titulo": "The Good Doctor - Season 1",
+            "url": "https://www.youtube.com/watch?v=BiOUFd7H69w"
+          },
+          {
+            "titulo": "NEW AMSTERDAM Official Trailer (HD) NBC Medical Drama Series",
+            "url": "https://www.youtube.com/watch?v=ZvMCbzrToAo"
+          },
+          {
+            "titulo": "Chicago Fire - Trailer",
+            "url": "https://www.youtube.com/watch?v=xbCDITL1ab4"
+          },
+          {
+            "titulo": "Aruanas | Nova série Original Globoplay",
+            "url": "https://www.youtube.com/watch?v=I_HYzzo9n4A"
+          },
+          {
+            "titulo": "Suits: Season 1 Trailer",
+            "url": "https://www.youtube.com/watch?v=85z53bAebsI"
+          }
+        ]
+      },
+      {
+        "titulo": "Filmes",
+        "cor": "#EE82EE",
+        "link_extra": {
+          "text": "Tops de Ação"
+        },
+        "videos": [
+          {
+            "titulo": "Código de Conduta (2009) Trailer Oficial Legendado",
+            "url": "https://www.youtube.com/watch?v=n34wVRu0-rQ"
+          },
+          {
+            "titulo": "The Italian Job (2003) Official Trailer # 1",
+            "url": "https://www.youtube.com/watch?v=uw6jY3VuOcI"
+          },
+          {
+            "titulo": "Pantera Negra – Trailer (legendado)",
+            "url": "https://www.youtube.com/watch?v=wL4a4MafSjQ"
+          },
+          {
+            "titulo": "Top Gun (1986) Official Trailer ",
+            "url": "https://www.youtube.com/watch?v=xa_z57UatDY"
+          },
+          {
+            "titulo": "Vingadores: Ultimato | Trailer Legendado",
+            "url": "https://www.youtube.com/watch?v=g6ng8iy-l0U"
+          },
+          {
+            "titulo": "JACK REACHER - O ÚLTIMO TIRO Trailer 2 Oficial do Filme",
+            "url": "https://www.youtube.com/watch?v=DK85XiZyfmk"
+          },
+          {
+            "titulo": "Velozes e Furiosos 8 - Trailer Oficial (Universal Pictures) HD",
+            "url": "https://www.youtube.com/watch?v=KvSlvtPnZTo"
+          },
+          {
+            "titulo": "Rota de Fuga - Trailer Oficial",
+            "url": "https://www.youtube.com/watch?v=jgrFJkHGwDA"
+          }
+        ]
+      },
+      {
+        "titulo": "Cabelo cacheado",
+        "cor": "#F08080",
+        "link_extra": {
+          "text": "Finalizações que fiz e curti o resultado",
+          "url": ""
+        },
+        "videos": [
+          {
+            "titulo": "FINALIZAÇÃO ATUALIZADA SEM SECADOR!",
+            "url": "https://www.youtube.com/watch?v=vSTeMvfDwJI"
+          },
+          {
+            "titulo": "FITAGEM DOS SONHOS | CACHOS SUPER DEFINIDOS",
+            "url": "https://www.youtube.com/watch?v=QGPFkAV_jQk"
+          },
+          {
+            "titulo": "FINALIZAÇÃO ATUALIZADA | DEFINIÇÃO, VOLUME E MUITO BRILHO",
+            "url": "https://www.youtube.com/watch?v=X8kNqnzs_8k"
+          },
+          {
+            "titulo": "FINALIZAÇÃO FAVORITA - Bruna Ramos",
+            "url": "https://www.youtube.com/watch?v=q1E9HHm1yGE"
+          },
+          {
+            "titulo": "COMO ESTOU FINALIZANDO MEU CABELO CACHEADO! FINALIZAÇÃO COM FITAGEM",
+            "url": "https://www.youtube.com/watch?v=aAMxmogw9Ok"
+          },
+          {
+            "titulo": "FINALIZANDO CABELO CACHEADO NO INVERNO + COMO USAR DIFUSOR",
+            "url": "https://www.youtube.com/watch?v=22wtX3KPSVw"
+          },
+          {
+            "titulo": "COMO ESTOU FINALIZANDO MEU CABELO CACHEADO ATUALMENTE!! SUPER PRÁTICO",
+            "url": "https://www.youtube.com/watch?v=Y_xeA58Qo8U"
+          },
+          {
+            "titulo": "MINHA FINALIZAÇÃO ATUALIZADA PARA CABELO CACHEADO| É muito fácil e rápida",
+            "url": "https://www.youtube.com/watch?v=9JkBwEtuSa8"
+          }
+        ]
+      },
+      {
+        "titulo": "Tecnologia",
+        "cor": "#C71585",
+        "link_extra": {
+          "text": "Dicas e reviews",
+          "url": ""
+        },
+        "videos": [
+          {
+            "titulo": "VOCÊ TAPA A SUA WEBCAM? Olha o que rolou com a minha namorada - Gabriel Pato",
+            "url": "https://www.youtube.com/watch?v=2bpAg2QI-HM"
+          },
+          {
+            "titulo": "XIAOMI POCO F2 PRO CHEGOU ! O VERDADEIRO MATADOR DE TOP DE LINHA de 2020 !",
+            "url": "https://www.youtube.com/watch?v=D5E43dLbDCo"
+          },
+          {
+            "titulo": "IMPORTEI o REDMI NOTE 9 da CHINA! SERÁ que VALEU A PENA? Unboxing e Impressões",
+            "url": "https://www.youtube.com/watch?v=QO0OQzJQ3GY"
+          },
+          {
+            "titulo": "Secretária virtual da Amazon fala PORTUGUÊS - O que é a ALEXA?",
+            "url": "https://www.youtube.com/watch?v=-l1rmRrompQ"
+          },
+          {
+            "titulo": "10 DICAS para a BATERIA do celular DURAR MAIS",
+            "url": "https://www.youtube.com/watch?v=OOlVi6m6TPo"
+          },
+          {
+            "titulo": "Instax Mini 8! FOTOGRAFIA INSTANTÂNEA! DIVERTIDA e BARATINHA!",
+            "url": "https://www.youtube.com/watch?v=WTeReRzagUs"
+          },
+          {
+            "titulo": "XIAOMI Haylou GT1 O FONE QUE DEIXOU O REDMI AIRDOTS EM PERIGO! ",
+            "url": "https://www.youtube.com/watch?v=18c9hR_04k0"
+          },
+          {
+            "titulo": "Vai valer a pena esperar Black Friday em 2020? ESTÁ TUDO CARO!! VAI SER TUDO UMA FURADA? ",
+            "url": "https://www.youtube.com/watch?v=AMxT-E0FuVs"
+          }
+        ]
+      }
+    ]
+  }
