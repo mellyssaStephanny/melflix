@@ -1,22 +1,44 @@
-import React from 'react';
-import logo from '../../assets/img/logo.png';
-import './Menu.css';
+import React, { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
+import Logo from '../../assets/Logo.png';
+import './styles.css';
 import Button from '../Button';
-//import ButtonLink from './components/ButtonLink';
 
+const Menu = () => {
+  const [noHeaderBackground, setNoHeaderBackground] = useState(true)
+  const [headerHidden] = useState(false)
+  useEffect(() => {
+    window.addEventListener('scroll', changeHeaderBackground, false)
+  }, [])
 
-function Menu() {
-    return (
-        <nav className="Menu">
-            <a href="/">
-                <img className="Logo" src={logo} alt="MelFlix logo"/>
-            </a>
+  const changeHeaderBackground = () => {
+    if (window.scrollY > 0) {
+      setNoHeaderBackground(false)
+    } else {
+      setNoHeaderBackground(true)
+    }
+  }
 
-            <Button as="a" className="ButtonLink" href="/">
-                Novo vídeo 
+  return (
+    <>
+      <header
+        className={`Menu ${
+          (noHeaderBackground && 'no-header-background') || 'header-background'
+        } ${(headerHidden && 'header-hidden') || ''}
+        }`}
+      >
+       <nav className="Menu">
+            <Link to ="/">
+                <img className="Logo" src={Logo} alt="MelFlix"/>
+            </Link>
+
+            <Button as={Link} className="ButtonLink" to ="/cadastro/video">
+                Novo vídeo
             </Button>
         </nav>
-    );
+      </header>
+    </>
+  )
 }
 
-export default Menu;
+export default Menu
