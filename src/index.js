@@ -7,7 +7,20 @@ import Home from './pages/Home';
 import CadastroVideo from './pages/cadastro/Vídeo';
 import CadastroCategoria from './pages/cadastro/Categoria';
 
-const Pagina404 = () => (<div>Página 404</div>)
+const Pagina404 = () => (
+  <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', flexDirection: 'column' }}>
+    <h1>Que pena! Essa página não existe :/ </h1>
+    <p>
+      <a href="/">Voltar pra home :)</a>
+    </p>
+        
+    <iframe
+      title="Página não encontrada"
+      src="https://i.imgur.com/SKMrKvw.jpg"
+      width="1260"
+      height="800" />
+  </div>
+)
 
 ReactDOM.render(
   <BrowserRouter>
