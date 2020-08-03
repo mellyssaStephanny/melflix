@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-props-no-spreading */
 import React from 'react';
 import SlickSlider from 'react-slick';
 import styled from 'styled-components';
@@ -16,6 +17,7 @@ const Container = styled.ul`
     transform: initial;
     &:before {
       font-size: 30px;
+      color: ${props => props.color ? props.color : '#fff'};
     }
   }
   
@@ -38,8 +40,8 @@ export const SliderItem = styled.li`
 `;
 
 
-const Slider = ({ children }) => (
-  <Container>
+const Slider = ({ children, color }) => (
+  <Container color={color}>
     <SlickSlider {...{
       dots: false,
       infinite: true,
@@ -47,7 +49,6 @@ const Slider = ({ children }) => (
       centerMode: false,
       variableWidth: true,
       adaptiveHeight: true,
-      slidesToShow: 4,
     }}
     >
       {children}
